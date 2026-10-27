@@ -1,4 +1,4 @@
-# Cases de ciência de dados para o agro — @adrielpereira.ia
+# Cases de ciência de dados para o agro — @adrielpereira.eng
 
 Códigos dos cases mostrados no Instagram e no YouTube. Todos usam **dados públicos e gratuitos** e vêm em duas versões de notebook:
 
@@ -19,4 +19,4 @@ Códigos dos cases mostrados no Instagram e no YouTube. Todos usam **dados públ
 
 ---
 
-Feito com dados públicos. Me acompanhe no Instagram: **@adrielpereira.ia**
+Feito com dados públicos. Me acompanhe no Instagram: **@adrielpereira.eng**
